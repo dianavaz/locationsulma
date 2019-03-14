@@ -1,4 +1,5 @@
-[
+{
+  locations:[
   {
     "key":"aalborg",
     "latitude":41.86320114135742,
@@ -22,4 +23,5 @@
     "longitude":-119.52899932861328,
     "name":"Portland"
   }
-]
+  ]
+}
