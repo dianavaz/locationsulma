@@ -1,4 +1,4 @@
-{
+ [
     {
       "id": 1,
       "title": "hello"
@@ -15,4 +15,4 @@
       "longitude":-2.543056,
       "name":"Ispáster"
     }
-}
+]
