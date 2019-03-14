@@ -1,5 +1,4 @@
 {
-  "locations": [
     {
       "id": 1,
       "title": "hello"
@@ -14,6 +13,6 @@
       "key":"ispaster",
       "latitude":43.362778,
       "longitude":-2.543056,
-      "name":"Ispáster"      
-  ]
+      "name":"Ispáster"
+    }
 }
