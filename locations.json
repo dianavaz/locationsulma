@@ -1,0 +1,25 @@
+[
+  {
+    "key":"aalborg",
+    "latitude":41.86320114135742,
+    "longitude":-87.61979675292969,
+    "name":"Chicago"
+  },
+  {
+    "key":"paris",
+    "latitude":48.93330001831055,
+    "longitude":2.3666999340057373,
+    "name":"Paris"},
+  {
+    "key":"san-francisco",
+    "latitude":37.774898529052734,
+    "longitude":-122.41899871826172,
+    "name":"San Francisco"
+  },
+  {
+    "key":"portland",
+    "latitude":45.77880096435547,
+    "longitude":-119.52899932861328,
+    "name":"Portland"
+  }
+]
