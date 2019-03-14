@@ -1,18 +1,16 @@
- [
-    {
-      "id": 1,
-      "title": "hello"
-    },
-    {
-      "key":"aalborg",
-      "latitude":57.05,
-      "longitude":9.916667,
-      "name":"Aalborg"
-    },
-    {
-      "key":"ispaster",
-      "latitude":43.362778,
-      "longitude":-2.543056,
-      "name":"Ispáster"
-    }
-]
+{
+ "locations":[
+  {
+   "key":"aalborg",
+   "latitude":57.05,
+   "longitude":9.916667,
+   "name":"Aalborg"
+  },
+  {
+   "key":"ispaster",
+   "latitude":43.362778,
+   "longitude":-2.543056,
+   "name":"Ispáster"
+  }
+ ]  
+}
