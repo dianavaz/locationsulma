@@ -11,6 +11,12 @@
    "latitude":43.362778,
    "longitude":-2.543056,
    "name":"Ispáster"
+  },
+  {
+   "key":"santcugatdelvalles",
+   "latitude":41.473538,
+   "longitude":2.085244,
+   "name":"Sant Cugat del Vallés"
   }
  ]  
 }
