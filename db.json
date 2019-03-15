@@ -17,6 +17,12 @@
    "latitude":41.473538,
    "longitude":2.085244,
    "name":"Sant Cugat del Vallés"
+  },
+  {
+   "key":"barcelona",
+   "latitude":41.3825,
+   "longitude":2.176944,
+   "name":"Barcelona"
   }
  ]  
 }
