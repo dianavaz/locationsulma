@@ -23,6 +23,36 @@
    "latitude":41.3825,
    "longitude":2.176944,
    "name":"Barcelona"
+  },
+  {
+   "key":"sants",
+   "latitude":41.37878,
+   "longitude":2.133099,
+   "name":"Sants"
+  },
+  {
+   "key":"ciutadella",
+   "latitude":41.386406,
+   "longitude":2.1873982,
+   "name":"Ciutadella"
+  },
+  {
+   "key":"poblenou",
+   "latitude":41.40388,
+   "longitude":2.204501,
+   "name":"Poblenou"
+  },
+  {
+   "key":"gracia",
+   "latitude":41.398724,
+   "longitude":2.1533988,
+   "name":"Gràcia"
+  },
+  {
+   "key":"eibar",
+   "latitude":43.184284,
+   "longitude":-2.473275,
+   "name":"Éibar"
   }
  ]  
 }
