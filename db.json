@@ -77,6 +77,25 @@
     "latitude":53.5578,
     "longitude":6.7544,
     "name":"Borkum"
+  },
+  {
+   "key":"renonord",
+   "latitude":57.023915,
+   "longitude":10.014574,
+   "name":"Reno Nord"
+  },
+  {
+   "key":"portland",
+   "latitude":57.062391,
+   "longitude":9.972505,
+   "name":"Portland"
+  }, 
+  {
+   "key":"nordjylland",
+   "latitude":57.072776,
+   "longitude":10.042538,
+   "name":"Nordjylland"
   }
+  
  ]  
 }
