@@ -95,6 +95,12 @@
    "latitude":57.072776,
    "longitude":10.042538,
    "name":"Nordjylland"
+  },
+    {
+    "key":"tupras",
+    "latitude":40.752570,
+    "longitude":29.7638408,
+    "name":"Tupras"
   }
  ]  
 }
