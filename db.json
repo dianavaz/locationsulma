@@ -101,6 +101,12 @@
     "latitude":40.752570,
     "longitude":29.7638408,
     "name":"Tupras"
-  }
+  },
+    {
+    "key":"ulma_guipuzcoa",
+    "latitude":43.0367438838674,
+    "longitude":-2.41679327364777,
+    "name":"Ulma Guipuzcoa"
+  } 
  ]  
 }
