@@ -95,6 +95,60 @@
    "latitude":57.072776,
    "longitude":10.042538,
    "name":"Nordjylland"
+  },
+    {
+    "key":"tupras",
+    "latitude":40.752570,
+    "longitude":29.7638408,
+    "name":"Tupras"
+  },
+  {
+    "key":"ulma_guipuzcoa",
+    "latitude":43.03697797316688,
+    "longitude":-2.41659478517088,
+    "name":"Ulma Guipuzcoa"
+  },
+  {
+    "key":"ulma_acoruna",
+    "latitude":43.308324,
+    "longitude":-8.293706,
+    "name":"Ulma A Coruña"
+  },
+  {
+    "key":"ulma_baleares",
+    "latitude":39.489145,
+    "longitude":2.85167,
+    "name":"Ulma Baleares"
+  },
+  {
+    "key":"ulma_barcelona",
+    "latitude":41.544259,
+    "longitude":2.165428,
+    "name":"Ulma Barcelona"
+  },
+  {
+    "key":"ulma_granada",
+    "latitude":37.226638,
+    "longitude":-3.632132,
+    "name":"Ulma Granada"
+  },
+  {
+    "key":"ulma_laspalmas",
+    "latitude":27.928576,
+    "longitude":-15.406407,
+    "name":"Ulma Las Palmas"
+  },
+  {
+    "key":"ulma_vitoria",
+    "latitude":42.948239,
+    "longitude":-2.641916,
+    "name":"Ulma Vitoria-Gasteiz"
+  },
+  {
+    "key":"ulma_toledo",
+    "latitude":39.751502,
+    "longitude":-3.989403,
+    "name":"Ulma Toledo"
   }
  ]  
 }
