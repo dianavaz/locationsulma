@@ -1,18 +1,6 @@
 {
  "locations":[
   {
-   "key":"aalborg",
-   "latitude":57.05,
-   "longitude":9.916667,
-   "name":"Aalborg"
-  },
-  {
-   "key":"ispaster",
-   "latitude":43.362778,
-   "longitude":-2.543056,
-   "name":"Ispáster"
-  },
-  {
     "key":"ulma_guipuzcoa",
     "latitude":43.03697797316688,
     "longitude":-2.41659478517088,
